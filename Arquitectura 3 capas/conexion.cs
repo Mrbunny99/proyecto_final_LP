@@ -20,7 +20,7 @@ namespace CapaDatos
                 {
                     OleDbConnectionStringBuilder b = new OleDbConnectionStringBuilder();
                     b.Provider = "Microsoft.ACE.OLEDB.12.0";
-                    b.DataSource = "C:\\Users\\Nelson Herrera\\source\\repos\\Arquitectura 3 capas\\Arquitectura 3 capas\\bin\\contacts.accdb";
+                    b.DataSource = "C:\\Arquitectura_capas\\Arquitectura_capas\\Arquitectura 3 capas\\bin\\contacts.accdb";
                     conexion = new OleDbConnection(b.ToString());
                     conexion.Open();
                 }
