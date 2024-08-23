@@ -1,0 +1,6 @@
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\Arquitectura 3 capas\bin\Debug\Arquitectura 3 capas.dll
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\Arquitectura 3 capas\bin\Debug\Arquitectura 3 capas.pdb
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\Arquitectura 3 capas\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\Arquitectura 3 capas\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\Arquitectura 3 capas\obj\Debug\Arquitectura 3 capas.dll
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\Arquitectura 3 capas\obj\Debug\Arquitectura 3 capas.pdb

@@ -1,0 +1,9 @@
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\capanegocios\bin\Debug\capanegocios.dll
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\capanegocios\bin\Debug\capanegocios.pdb
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\capanegocios\bin\Debug\Arquitectura 3 capas.dll
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\capanegocios\bin\Debug\Arquitectura 3 capas.pdb
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\capanegocios\obj\Debug\capanegocios.csproj.AssemblyReference.cache
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\capanegocios\obj\Debug\capanegocios.csproj.CoreCompileInputs.cache
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\capanegocios\obj\Debug\capanegocios.csproj.CopyComplete
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\capanegocios\obj\Debug\capanegocios.dll
+C:\Users\Nelson Herrera\source\repos\Arquitectura 3 capas\capanegocios\obj\Debug\capanegocios.pdb
